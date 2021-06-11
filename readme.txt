@@ -13,6 +13,6 @@ play slots, play roulette or play blackjack.
 All users start with an intial balance of $1000.
 When the user does not want to play anymore, they can quit the program.
 
-If the user chooses to simulate play, the user has the option to simulate 10 players or a custom amount of users.
-The program then simulates 3 games of slots, 3 games of roulette, 3 games of blackjack, and 1 random of the three games for each player.
-The program then prints the leaderboard of the simulated users.
+If the user chooses to simulate play, the user has the option to simulate 10 players or a custom amount of players.
+The program simulates $100 bets on 3 games of slots, 3 games of roulette, 3 games of blackjack, and 1 random of the three games for each player.
+The program then prints the leaderboard of the simulated users' names and balances.
