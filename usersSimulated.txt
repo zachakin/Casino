@@ -1,0 +1,12 @@
+User1,700
+User2,700
+User3,800
+User4,800
+User5,800
+User6,400
+User7,700
+User8,500
+User9,1000
+User10,700
+User11,200
+User12,600
